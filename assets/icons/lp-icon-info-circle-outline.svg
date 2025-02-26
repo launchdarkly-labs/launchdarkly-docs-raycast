@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+<path
+        fill-rule="evenodd"
+        d="M10 14.25a.75.75 0 0 1-.75-.75v-3.333a.75.75 0 1 1 1.5 0V13.5a.75.75 0 0 1-.75.75Z"
+        clip-rule="evenodd"
+      />
+      <path
+        fill-rule="evenodd"
+        d="M13.157 17.622A8.25 8.25 0 1 1 6.843 2.379a8.25 8.25 0 0 1 6.314 15.243ZM10 16.75a6.75 6.75 0 1 0 0-13.5 6.75 6.75 0 0 0 0 13.5Z"
+        clip-rule="evenodd"
+      />
+      <path
+        d="M10 6.125a.875.875 0 1 0 0 1.75h.015a.875.875 0 0 0 0-1.75H10Z"
+      />
+</svg>
