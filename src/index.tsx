@@ -292,7 +292,7 @@ async function parseFetchResponse(response: Response) {
       name: title,
       description,
       path: pathname,
-      url: `https://docs.launchdarkly.com${pathname}`,
+      url: `https://launchdarkly.com${pathname}`,
       id: objectID,
       type: type || "Page",
       version: version.title,
